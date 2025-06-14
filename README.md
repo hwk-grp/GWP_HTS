@@ -3,7 +3,7 @@
 
 <img src="TOC_heading.png" width=90% height=90%>
 
-### Repository for fully data-driven approach to Suggest Alternative Refrigerants
+### Repository for fully data-driven approach to suggest alternative refrigerants
 
 ***
 
