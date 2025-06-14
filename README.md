@@ -3,8 +3,7 @@
 
 <img src="TOC_heading.png" width=90% height=90%>
 
-### Repository for fully data-driven approach
-While this may not be of the highest quality, I hope that it may be of some use to researchers.
+### Repository for fully data-driven approach to Suggest Alternative Refrigerants
 
 ***
 
